@@ -1,9 +1,11 @@
-# Android 13/14 builds for Waydroid
+# Android 13/14/15 builds for Waydroid
 
-## Features
-- Touchpad pinch-to-zoom support
-- VA-API video acceleration support for Intel/AMD GPUs
-- Built with Mesa 25.3
+## Available features
+|Features|Official builds (for reference)|A13|A14|A15|
+|:------:|:-----------------------------:|:-:|:-:|:-:|
+| Seamless mode (multi-window)      | ✅ | ✅ | | |
+| Touchpad pinch-to-zoom support    | | ✅ | ✅ | ✅ |
+| VA-API video acceleration support | | ✅ | ✅ | ✅ |
 
 ## Installation
 Check [Releases](https://github.com/supechicken/waydroid-builds/releases/latest) page for more information
